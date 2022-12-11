@@ -8,6 +8,10 @@
 [ output location: `~/Music` ]
 
 
+## Description 
+The description of the programme contents are outlined in:
+https://medium.com/p/f72201aba6b0
+
 ## How to download
 1. Go to: https://www.audible.co.uk/library/titles
 2. Find the title you want
