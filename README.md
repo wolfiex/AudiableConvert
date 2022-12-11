@@ -1,6 +1,13 @@
 # AudiableConvert
 
 
+## Usage
+
+```python -m AudiableConvert '/path/to/audiablebookdirectory/'```
+
+[ output location: `~/Music` ]
+
+
 ## How to download
 1. Go to: https://www.audible.co.uk/library/titles
 2. Find the title you want
